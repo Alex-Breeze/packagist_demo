@@ -1,5 +1,6 @@
 {
-    "name": "alex/breeze",
+    "name": "alexbreeze/alexbreeze",
+    "description": "this is a demo",
     "type": "php",
     "license": "MIT",
     "minimum-stability": "dev",

@@ -1,0 +1,7 @@
+{
+    "name": "alex/breeze",
+    "type": "php",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {}
+}
